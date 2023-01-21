@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ppulci
-- 👀 I’m interested in gamedevelopment and modding!
-- 🌱 I’m currently learning Puthon, C# and Java. 
+- 👀 I’m interested in game development and modding!
+- 🌱 I’m currently learning Python, C and Java. 
 
 <!---
 ppulci/ppulci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
