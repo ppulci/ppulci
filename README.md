@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ppulci
-- 👀 I’m interested in game development and modding!
-- 🌱 I’m currently in school learning CS!
+- 👋 Hi, I’m Peter Pulcini!
+- 👀 My hobbies are in game development and modding!
+- 🌱 Soon to be CS graduate looking for new grad roles!
