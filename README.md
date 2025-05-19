@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats:
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ppulci&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 48%; height: auto;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ppulci&theme=gruvbox&hide_border=true" alt="GitHub Streak" style="max-width: 48%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ppulci&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 45%; height: auto;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ppulci&theme=gruvbox&hide_border=true" alt="GitHub Streak" style="max-width: 45%; height: auto;" />
 </p>
 
