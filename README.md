@@ -3,7 +3,7 @@
 </div>
 
 # 😎 About Me:
-👋 Hey, I’m Peter Pulcini, a Computer Science undergraduate at Toronto Metropolitan University (TMU)<br><br>
+👋 Hey, I’m Peter Pulcini, Computer Science alumni from Toronto Metropolitan University (TMU)<br><br>
 🎮 In my spare time, I’m into modding games, designing characters, and dabbling in creative writing!<br><br>
 🚀 I’ve got some cool projects down below so be sure to check them out!<br><br>
 💬 I'm always open to collaboration so feel free to reach out about projects, ideas, or just to chat!
